@@ -19,7 +19,7 @@ export default function Home() {
         <div className="text-center">
           <div className="flex justify-center space-x-4">
             <a
-              href="https://www.instagram.com/yourprofile"
+              href="https://instagram.com/sustain.inc"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-pink-500 transition duration-300"
